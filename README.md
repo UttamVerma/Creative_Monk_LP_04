@@ -14,6 +14,6 @@ This landing page is designed for a digital marketing company that helps busines
 ## Tech Stacks Used
 
 - **Frontend**: React.js, HTML, CSS, JavaScript
-- **Backend**: (Optional: Firebase, Node.js, or others based on your stack)
+- **Backend**: Firebase, Node.js
 
 
